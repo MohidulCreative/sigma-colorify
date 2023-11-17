@@ -1,0 +1,32 @@
+{
+  "name": "sigma-colorify",
+  "version": "1.0.0",
+  "description": "A library for colorify coders console logs",
+  "main": "lib/index.js",
+  "types": "lib/index.d.ts",
+  "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/MohidulCreative/sigma-colorify.git"
+  },
+  "keywords": [
+    "colorful-console",
+    "javascript",
+    "package",
+    "npm",
+    "package"
+  ],
+  "author": "Mohidul <mohidulislam4228@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MohidulCreative/sigma-colorify/issues"
+  },
+  "homepage": "https://github.com/MohidulCreative/sigma-colorify#readme",
+  "devDependencies": {
+    "typescript": "^5.2.2"
+  },
+  "files": ["/lib**/*"]
+}
